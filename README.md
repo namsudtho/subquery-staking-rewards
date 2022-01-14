@@ -100,3 +100,16 @@ For the `subql-starter` project, you can try to query with the following code to
   }
 }
 ````
+## Exercise Results
+
+#### Exercise 1: Index Staking Rewards
+![image](https://user-images.githubusercontent.com/15089720/149494319-8af4d4e1-b583-43b3-8209-c4606a0354e2.png)
+
+#### Exercise 2: Aggregate Staking Rewards
+![image](https://user-images.githubusercontent.com/15089720/149493963-850c9c1f-014d-4ad8-b732-7df5cc14f6a3.png)
+
+#### Exercise 3: Viewing Both Aggregated and
+![image](https://user-images.githubusercontent.com/15089720/149493746-fcacea20-f750-4b79-b89f-5229c51428a4.png)
+
+#### Exercise 4: Reward v Rewarded
+![image](https://user-images.githubusercontent.com/15089720/149493474-86db456f-68eb-4342-aed1-f45203a096aa.png)
