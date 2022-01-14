@@ -11,6 +11,7 @@ function createSumReward(accountId: string): SumReward {
 export async function handleStakingReward(event: SubstrateEvent): Promise<void> {
     await handleStakingRewarded(event)
 }
+
 export async function handleStakingRewarded(event: SubstrateEvent): Promise<void> {
     const {event: {data: [account, newReward]}} = event;
     const entity = new StakingReward(`${event.block.block.header.number}-${event.idx.toString()}`);
